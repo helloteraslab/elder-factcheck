@@ -98,14 +98,6 @@ You may want to customize:
 - reply tone for different family relationships
 - output verbosity
 
-## Publishing Tips
-
-If you publish this repo, consider adding:
-
-- a short Chinese README variant if your audience is primarily Chinese-speaking
-- a changelog if you expect prompt iterations
-- platform-specific install instructions once you know the exact target runner
-
 ## License
 
 MIT
