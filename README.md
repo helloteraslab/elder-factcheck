@@ -1,5 +1,7 @@
 # Elder-FactCheck
 
+[简体中文说明](./README.zh-CN.md)
+
 `Elder-FactCheck` is a reusable skill for agents such as Codex, OpenClaw, or similar prompt-driven assistants. It helps users review suspicious content shared by older family members, then craft a respectful reply that preserves dignity while reducing misinformation risk.
 
 ## What It Does
